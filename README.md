@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hello, Nihao 👋
+<img src="https://raw.githubusercontent.com/IsNotPuppy/IsNotPuppy/main/download.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 <!--
 **IsNotPuppy/IsNotPuppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
